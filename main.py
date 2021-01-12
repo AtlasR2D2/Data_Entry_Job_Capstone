@@ -96,4 +96,4 @@ for property_x in property_details:
     property_count += 1
 
 # Show Spreadsheet Results
-driver.get(url=GOOGLE_FORM_VIEW_URL)
+# driver.get(url=GOOGLE_FORM_VIEW_URL)
